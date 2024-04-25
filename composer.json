@@ -1,5 +1,5 @@
 {
-    "name": "biobodya/enqueue-bundle",
+    "name": "igdr/enqueue-bundle",
     "type": "symfony-bundle",
     "description": "Message Queue Bundle",
     "keywords": ["messaging", "queue", "amqp", "rabbitmq"],
