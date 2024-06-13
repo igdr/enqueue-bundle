@@ -6,7 +6,6 @@ use Enqueue\AsyncCommand\RunCommandProcessor;
 use Enqueue\AsyncEventDispatcher\DependencyInjection\AsyncEventDispatcherExtension;
 use Enqueue\JobQueue\Job;
 use Enqueue\Monitoring\Symfony\DependencyInjection\MonitoringFactory;
-use Enqueue\Symfony\Client\DependencyInjection\ClientFactory;
 use Enqueue\Symfony\DependencyInjection\TransportFactory;
 use Enqueue\Symfony\MissingComponentFactory;
 use Symfony\Component\Config\Definition\Builder\ArrayNodeDefinition;
